@@ -1,7 +1,7 @@
-# Hi nice to meet you
-## How are you, doing?
+# An image
+## Hi nice to meet you
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
